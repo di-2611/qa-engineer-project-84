@@ -156,7 +156,7 @@
 - summary: |
     Проверка оптимизации сайта для скорости работы
   prerequisites: |
-    Открыть сайт https://pagespeed.web.dev/ 
+    Открыть сайт "https://pagespeed.web.dev/"
   test-data: |
     Нет данных
   steps:
